@@ -5,7 +5,7 @@ Welcome to my world 🌍
 # Data Scientist 😎
 
 ## About Me
-I am a data scientist with a passion for using data to answer complex questions and uncover valuable insights. I have a strong analytical background, with a Master's degree in Data Science and a Bachelor's degree in Economics. My experience ranges from working with large datasets to developing machine learning models with Classification, Regression and Clustering. I am highly proficient in programming languages such as Python, R and SQL, and have extensive experience in developing and deploying predictive models. 👨🏾‍💻💜
+I am a data scientist with a passion for using data to answer complex questions and uncover valuable insights. I have a strong analytical background, with a Master's degree in Data Science and a Bachelor's degree in Economics. My experience ranges from working with large datasets to developing machine learning models with Classification, Regression and Clustering. I am highly proficient in programming languages such as Python, R and SQL, and have extensive experience in developing and deploying predictive models. 👨🏾‍💻
 
 
 ## Skills 💻
