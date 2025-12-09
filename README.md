@@ -29,7 +29,7 @@ Get access to my data science projects & learning roadmap here (optional link)
 ---
 
 ## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mike-owona-m-sc-65772a126)
+[LinkedIn](https://www.linkedin.com/in/mike-owona-m-sc-65772a126/)
 
 ---
 
