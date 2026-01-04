@@ -1,22 +1,8 @@
-Hi 👋🏾 I'm a Data Scientist & Machine Learning Engineer
+Hi I'm a Data Scientist & Machine Learning Engineer
 
-I help businesses turn messy data into clear, actionable insights by building predictive models, NLP systems, and end-to-end analytics solutions.
+I use Data Science to turn data into clear, actionable insights by building end-to-end analytics solutions to drive decisions, products, or revenue
 
-## ⭐ Work With Me
-I specialize in Machine Learning, NLP, Dashboard Automation, and Data Engineering for business intelligence and decision-making.
-
-Get access to my data science projects & learning roadmap here (optional link)
-
----
-
-### PROFILE VIEWS
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-
-Hi 👋🏾 I'm a Data Scientist & Machine Learning Engineer
-
-I help businesses turn messy data into clear, actionable insights by building predictive models, NLP systems, and end-to-end analytics solutions.
-
-## ⭐ Work With Me
+## Work With Me
 I specialize in Machine Learning, NLP, Dashboard Automation, and Data Engineering for business intelligence and decision-making.
 
 Get access to my data science projects & learning roadmap here (optional link)
@@ -49,25 +35,6 @@ I combine strong analytical thinking with full-stack ML skills — from data cle
 - **Dashboards:** Power BI, Tableau  
 - **Tools:** Git, Azure, Power Automate, SQL Server, DBeaver  
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Wind Turbine Failure Prediction (End-to-End ML Pipeline)**  
-**Goal:** Predict turbine failures early to reduce downtime and support proactive maintenance.  
-Built a predictive maintenance model using Random Forest, XGBoost, and SMOTE, including EDA, feature engineering, model tuning, and evaluation.
-
----
-
-### 🔹 **AIML Classification Model Comparison**  
-**Goal:** Identify the best performing ML algorithm for a real-world classification problem.  
-Compared Decision Trees, Bagging, Random Forest, AdaBoost, Gradient Boosting, and XGBoost with cross-validation and full metric evaluation.
-
----
-
-### 🔹 **EasyVisa Approval Prediction**  
-**Goal:** Predict visa application approval using machine learning.  
-Performed EDA, feature engineering, encoding, model building, and interpretation to determine key predictors of approval.
 
 ---
 
