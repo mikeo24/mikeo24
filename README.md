@@ -1,3 +1,5 @@
+## About Me
+
 Hi I'm a Data Scientist & Machine Learning Engineer
 
 I use Data Science to turn data into clear, actionable insights by building end-to-end analytics solutions to drive decisions, products, or revenue
@@ -12,15 +14,6 @@ I use Data Science to turn data into clear, actionable insights by building end-
 - **Data Engineering:** ETL, Databricks, Data Pipelines, Automation  
 - **Dashboards:** Power BI, Tableau  
 - **Tools:** Git, Azure, Power Automate, SQL Server, DBeaver, Databricks 
-
----
-
-## 💼 Experience Snapshot
-- Developed predictive models and classification systems using Python and scikit-learn  
-- Built NLP pipelines including sentiment analysis, embeddings, and transformer-based workflows  
-- Designed dashboards for business decision-making using Power BI  
-- Automated ETL workflows and improved data quality processes  
-- Created end-to-end machine learning solutions from data extraction to deployment  
 
 ---
 
