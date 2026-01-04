@@ -2,9 +2,6 @@ Hi I'm a Data Scientist & Machine Learning Engineer
 
 I use Data Science to turn data into clear, actionable insights by building end-to-end analytics solutions to drive decisions, products, or revenue
 
-## Work With Me
-I specialize in Machine Learning, NLP, Dashboard Automation, and Data Engineering for business intelligence and decision-making.
-
 ---
 
 ## 🛠️ Technical Skills
