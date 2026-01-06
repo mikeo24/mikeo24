@@ -15,9 +15,3 @@ I use Data Science to turn data into clear, actionable insights by building end-
 - **Dashboards:** Power BI, Tableau  
 - **Tools:** Git, Azure, Power Automate, SQL Server, DBeaver, Databricks 
 
----
-
-## 📫 Contact Me
-📧 mikeowona24@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/mike-owona-m-sc-65772a126  
-
